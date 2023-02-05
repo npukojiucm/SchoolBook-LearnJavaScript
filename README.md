@@ -7,6 +7,6 @@
 ## 1. Основы JavaScript
 
 * [Привет, Мир!](https://clck.ru/33TQEc)
-* [Переменные]()
+* [Переменные](https://clck.ru/33TWBL)
 
 2. 
