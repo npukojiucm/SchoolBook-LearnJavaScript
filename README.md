@@ -4,4 +4,9 @@
 
 Учебник - <https://learn.javascript.ru/>
 
-* [Основы JavaScript](https://clck.ru/33TPk2)
+## 1. Основы JavaScript
+
+* [Привет, Мир!](https://clck.ru/33TQEc)
+* [Переменные]()
+
+2. 
