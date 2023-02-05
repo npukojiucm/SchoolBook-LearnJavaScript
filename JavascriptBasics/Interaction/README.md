@@ -6,7 +6,7 @@
 
 Создайте страницу, которая спрашивает имя у пользователя и выводит его.
 
-[Решение]()
+[Решение]([Решение](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/JavascriptBasics/Interaction/task-1))
 
 ------
 

@@ -6,7 +6,7 @@
 
 ## 1. Основы JavaScript
 
-1. [Привет, Мир!](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/HelloWorld)
-2. [Переменные](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20JavaScript/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
-3. [Взаимодействие: alert, prompt, confirm]()
-4. [Условное ветвление: if, '?']()
+1. [Привет, Мир!](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/JavascriptBasics/HelloWorld)
+2. [Переменные](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/JavascriptBasics/Variables)
+3. [Взаимодействие: alert, prompt, confirm](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/JavascriptBasics/Interaction)
+4. [Условное ветвление: if, '?'](https://github.com/npukojiucm/SchoolBook-LearnJavaScript/tree/main/JavascriptBasics/ConditionalBranching)
